@@ -3,7 +3,7 @@ package oop2;
 public class Human {
 
 
-    private int walk = 0 ;
+    private final int walk = 0 ;
 
 
 

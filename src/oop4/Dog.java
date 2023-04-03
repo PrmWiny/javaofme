@@ -1,6 +1,6 @@
 package oop4;
 
-public class Dog extends Animal{
+public class Dog extends Animalsssss {
     @Override
     public void say() {
         System.out.println("Sport");
